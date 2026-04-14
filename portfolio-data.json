@@ -1,0 +1,135 @@
+{
+  "personal": {
+    "name": "Hussein Alali Alismael",
+    "title": "Backend Developer (Python/Django) | AI Engineering Student",
+    "email": "husseinalalialismael@gmail.com",
+    "phone": "+963 939 866 304",
+    "location": "Aleppo, Syria",
+    "linkedin": "https://linkedin.com/in/hussein-alali-alismael10",
+    "github": "https://github.com/hussein-alali-alismael",
+    "summary": "Highly motivated 4th-year Informatics Engineering student specializing in Artificial Intelligence, with a strong focus on Backend Development and Scalable APIs. Proficient in building robust server-side logic using Django REST Framework and integrating Neural Networks into functional systems. Experienced in hardware-software integration using Raspberry Pi and passionate about solving complex engineering problems through optimized code and logical design."
+  },
+  "skills": {
+    "backend": [
+      "Python",
+      "Django",
+      "Django REST Framework (DRF)",
+      "RESTful APIs",
+      "Secure Authentication"
+    ],
+    "ai_ml": [
+      "Machine Learning (ML)",
+      "Deep Learning",
+      "Neural Networks",
+      "Computer Vision",
+      "TensorFlow",
+      "PyTorch",
+      "XGBoost"
+    ],
+    "database": [
+      "SQL",
+      "PostgreSQL",
+      "Database Design",
+      "Query Optimization"
+    ],
+    "embedded": [
+      "Raspberry Pi 4",
+      "Hardware Integration",
+      "Sensor Interfacing",
+      "GPIO Programming"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Linux (Ubuntu)",
+      "VS Code",
+      "Jupyter Notebooks",
+      "Logic Programming (Prolog)"
+    ]
+  },
+  "softSkills": [
+    "Analytical Thinking: Expert at breaking down complex requirements into manageable technical tasks",
+    "Problem Solving: Strong ability to debug complex logic and optimize system-wide performance",
+    "Continuous Learning: Proactively staying updated with the latest trends in AI and backend architectures"
+  ],
+  "projects": [
+    {
+      "name": "Rainfall Anomaly Explorer",
+      "subtitle": "ML for Humanitarian Support",
+      "description": "Engineered an end-to-end machine learning system to predict rainfall anomalies in Syria, achieving a 99.3% accuracy (R² = 0.9934) using XGBoost. Processed and analyzed over 11,000 satellite-derived observations to provide actionable insights for humanitarian aid and disaster preparedness. Implemented SHAP-based interpretability to explain model predictions, ensuring transparency for humanitarian stakeholders and decision-makers.",
+      "technologies": [
+        "Python",
+        "XGBoost",
+        "Scikit-learn",
+        "SHAP",
+        "Pandas",
+        "Matplotlib"
+      ]
+    },
+    {
+      "name": "Team Management System API",
+      "subtitle": "Backend",
+      "description": "Developed a secure backend infrastructure for team management using Django REST Framework. Designed and implemented RESTful APIs for task assignments, user authentication, and hierarchical team structures. Managed database schemas and optimized PostgreSQL queries to enhance data retrieval performance and system scalability.",
+      "technologies": [
+        "Django",
+        "Django REST Framework",
+        "PostgreSQL",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Agricultural AI Robot",
+      "subtitle": "Olive Fruit Fly Detection",
+      "description": "Engineered and trained a Neural Network model (GoogLeNet) to detect 'Olive Fruit Fly' infestations from image datasets. Implemented advanced image processing techniques to improve model accuracy and robustness across various environmental conditions. Integrated the AI model with backend services to provide real-time detection capabilities.",
+      "technologies": [
+        "Neural Networks",
+        "GoogLeNet",
+        "Image Processing",
+        "Computer Vision",
+        "TensorFlow"
+      ]
+    },
+    {
+      "name": "Robotics & Hardware Integration",
+      "subtitle": "Raspberry Pi 4",
+      "description": "Developed custom robotic prototypes by bridging software logic with physical hardware control using Raspberry Pi 4. Programmed sensor data collection and motor control sequences, ensuring seamless communication between sensors and the central controller.",
+      "technologies": [
+        "Raspberry Pi 4",
+        "Python",
+        "GPIO Programming",
+        "Hardware Integration",
+        "Sensor Interfacing"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Informatics Engineering – Specialization in AI",
+    "university": "Aleppo University, Syria",
+    "period": "2022 – Present",
+    "coursework": [
+      "Machine Learning",
+      "Deep Learning",
+      "Database Systems",
+      "Algorithm Analysis",
+      "Robotics",
+      "Data Structures"
+    ]
+  },
+  "certifications": [
+    {
+      "name": "Artificial Neural Networks",
+      "issuer": "projects.sy",
+      "hours": "40 hours"
+    },
+    {
+      "name": "Python Programming Language",
+      "issuer": "Midad Organization",
+      "hours": "35 hours"
+    },
+    {
+      "name": "Machine Learning",
+      "issuer": "Midad Organization",
+      "hours": "30 hours"
+    }
+  ]
+}
